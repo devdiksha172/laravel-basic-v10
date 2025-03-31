@@ -79,6 +79,11 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     npm run dev
     ```
+8. **Generate the storage link:**
+
+    ```bash
+    php artisan storage:link
+    ```    
 
 ## Running the Application
 
