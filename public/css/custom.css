@@ -1,0 +1,21 @@
+/* Make table body background white */
+table tbody {
+    /* background-color: #ffffff !important; */
+    color: #ffffff !important;
+}
+
+/* Optional: Adjust table borders */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table th {
+    color: #ffffff !important;
+}
